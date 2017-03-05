@@ -1,0 +1,400 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+  <head>
+
+    <title>iBBSPIK</title>
+
+    <meta name="generator" content="Web Studio, Version 5.0 for Windows Build 18">
+    <meta name="creation-date" content="Mon, 09 Jul, 2012 11:35:35 GMT">
+    <meta name="website-id" content="WSSITE7DB731471E321090">
+
+    <style type="text/css"> 
+        p {margin-top:0}
+        html{overflow-y:scroll}
+    </style>
+
+    <!--[if lt IE 7]>
+    <style type="text/css">
+    img {behavior: url(iepngfix.htc)}
+    </style>
+    
+    <![endif]-->
+
+    <script defer type="text/javascript" src="user.js"></script>
+
+
+    <script type="text/javascript">
+    function pointconversion() {
+    var patrn = document.getElementById("patrn");
+    if ( screen.deviceXDPI > 100 || patrn.offsetWidth>= 100) {
+      var WSarr=new Array('div','font');
+      var WSj='0';
+      var WSy = document.getElementsByTagName(WSarr[WSj]);
+      while(WSj<='2'){
+        for (var WSi=0;WSi<WSy.length;WSi++) {
+          var strlength =document.getElementsByTagName(WSarr[WSj])[WSi].style.fontSize.length;
+          var pointsorpixels =document.getElementsByTagName(WSarr[WSj])[WSi].style.fontSize.substr(strlength-2,2);
+          if (pointsorpixels=="pt")
+          {
+            var newsize=Math.ceil(parseFloat(document.getElementsByTagName(WSarr[WSj])[WSi].style.fontSize)*1.3);
+            document.getElementsByTagName(WSarr[WSj])[WSi].style.fontSize = newsize + "px";
+          }
+        }
+        WSj++;
+        WSy = document.getElementsByTagName(WSarr[WSj]);
+      }
+    }
+  }
+</script>
+<script type="text/javascript">
+  <!--
+    window.onerror = null;
+
+  //-->
+</script>
+
+
+<style type="text/css">
+  <!--
+      a:link { text-decoration:underline; color: #4b4b4b;}
+      a:visited { text-decoration:underline; color: #696969;}
+      a:hover { text-decoration:underline; color: #969696;}
+  -->
+</style>
+
+
+</head>
+
+<body background="iBBSPIK/imag000.jpg" style="margin:0 0 1px 0; height:100%">
+
+  <table width="1003" border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td>
+        <div id="ctrdiv" style="position:absolute; top:0; padding: 0px; height:100%; width: 1003px">
+
+          <div id="RECOBJ7DB731473A41962" style=" position:absolute; top:2px; left:16px; width:975px; height:943px; z-index:2;">
+            <img src="iBBSPIK/goim002.png" width=975 height=943 border=0>
+          </div>
+
+
+          <div id="SGROBJ7DB73148332E1F41" style=" position:absolute; top:7px; left:666px; width:309px; height:159px; z-index:3;">
+            <img src="iBBSPIK/imag001.gif" width=309 height=159 border=0>
+          </div>
+
+
+          <div id="TXTOBJ7DB7314836163A91" style=" position:absolute; top:45px; left:256px; width:489px; height:26px; z-index:4;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #ffffff; FONT-SIZE: 16pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P>
+                <FONT color=#000000>
+                  <FONT color=#c00000>
+                    <FONT style="FONT-SIZE: 16pt">
+                      <FONT style="FONT-SIZE: 9pt">
+                        <FONT style="FONT-SIZE: 11pt">
+                          <FONT style="FONT-SIZE: 11pt">
+                            <FONT style="FONT-SIZE: 14pt" color=#0024c0>
+                              <FONT style="FONT-SIZE: 16pt" color=#004bc0>
+                                Bina Bangsa School - Pantai Indah Kapuk
+                              </FONT>
+                              </FONT>
+                            </FONT>
+                          </FONT>
+                        </FONT>
+                      </FONT>
+                    </FONT>
+                  </FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="RECOBJ7DB855482C38A2" style=" position:absolute; top:143px; left:19px; width:220px; height:235px; z-index:5;">
+            <img src="iBBSPIK/goim005.png" width=220 height=235 border=0>
+          </div>
+
+
+          <div id="RECOBJ7DB855482C38A2" style=" position:absolute; top:384px; left:19px; width:220px; height:556px; z-index:6;">
+            <img src="iBBSPIK/goim006.png" width=220 height=556 border=0>
+          </div>
+
+
+          <div id="RECOBJ7DB855482C38A2" style=" position:absolute; top:500px; left:243px; width:742px; height:440px; z-index:7;">
+            <img src="iBBSPIK/goim007.png" width=742 height=440 border=0>
+          </div>
+
+
+          <div id="RECOBJ7DB855482C38A2" style=" position:absolute; top:144px; left:243px; width:742px; height:350px; z-index:8;">
+            <img src="iBBSPIK/goim008.png" width=742 height=350 border=0>
+          </div>
+
+
+          <div id="RECOBJ7DBA4601D2138E2" style=" position:absolute; top:155px; left:255px; width:720px; height:325px; z-index:9;">
+            <img src="iBBSPIK/goim009.png" width=720 height=325 border=0>
+          </div>
+
+
+          <div id="SGROBJ7DBA4601E1C1A91" style=" position:absolute; top:190px; left:259px; width:188px; height:224px; z-index:10;">
+            <img src="iBBSPIK/imag002.jpg" width=188 height=224 border=0>
+          </div>
+
+
+          <div id="TXTOBJ7DBA460202118C1" style=" position:absolute; top:167px; left:561px; width:201px; height:20px; z-index:11;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 12pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <FONT style="FONT-SIZE: 12pt" color=#c02000 face=Arial>
+                ACCESS DENIED !
+              </FONT>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DBA46022151AB0" style=" position:absolute; top:196px; left:374px; width:550px; height:142px; z-index:12;">
+            <DIV style="TEXT-ALIGN: justify; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #ff0000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P align=justify>
+                <FONT color=#000000>
+                  <FONT style="FONT-SIZE: 11pt">
+                    Access to this page has been denied by the Web Filter, and a complete log of your internet activity has been kept. If you require further assistance accessing this site please contact your network manager.
+                  </FONT>
+                  </P>
+                <P align=justify>
+                  <FONT style="FONT-SIZE: 11pt" color=#000000>
+                    This site has been denied because:
+                  </FONT>
+                   <FONT style="FONT-SIZE: 11pt" color=#ff0000>
+                    Banned Phrase found / Banned Site
+                  </FONT>
+                  </P>
+                <P align=justify>
+                  <FONT style="FONT-SIZE: 9pt" color=#000000>
+                    <FONT style="FONT-SIZE: 9pt">
+                      <FONT style="FONT-SIZE: 11pt">
+                        If you think this site should not have been blocked, request unblock: <A href="mailto:bbspiknoc@binabangsaschool.com">bbspiknoc@binabangsaschool.com</A></FONT>
+                      </FONT>
+                    </FONT>
+                  </FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="SGROBJ7DBA46024125B1" style=" position:absolute; top:343px; left:486px; width:272px; height:131px; z-index:13;">
+            <img src="iBBSPIK/imag003.jpg" width=272 height=131 border=0>
+          </div>
+
+
+          <div id="SGROBJ7DBA460241F511" style=" position:absolute; top:367px; left:877px; width:86px; height:79px; z-index:14;">
+            <img src="iBBSPIK/imag004.gif" width=86 height=79 border=0>
+          </div>
+
+
+          <div id="TXTOBJ7DBA46119263621" style=" position:absolute; top:392px; left:34px; width:76px; height:18px; z-index:15;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #c02000; FONT-SIZE: 11pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P>
+                <FONT style="FONT-SIZE: 10pt">
+                  <U><FONT style="FONT-SIZE: 11pt">
+                    Go to :
+                  </FONT>
+                  </U></FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DBA5E03723511" style=" position:absolute; top:672px; left:253px; width:718px; height:53px; z-index:16;">
+            <DIV style="TEXT-ALIGN: justify; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P align=justify>
+                <FONT style="FONT-SIZE: 11pt">
+                  Problem attaching file on email:<BR>
+                  If you have problems attaching files in yahoo mail, gmail and hotmail "can not attach files due to a proxy or firewall", choose clasic file uploader or try removing or&nbsp;reinstall your flash player to the older version.
+                </FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DBA5E03913381" style=" position:absolute; top:506px; left:257px; width:141px; height:19px; z-index:17;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P>
+                <FONT style="FONT-SIZE: 11pt" color=#c02000>
+                  <U>Intranet Messenger:</U></FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DBA5E1681F41" style=" position:absolute; top:151px; left:32px; width:164px; height:18px; z-index:18;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 11pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <FONT style="FONT-SIZE: 11pt" color=#c02000>
+                Messages Corner
+              </FONT>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DBA51C11861FE1" style=" position:absolute; top:261px; left:31px; width:207px; height:101px; z-index:19;">
+            <DIV style="TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #c02000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P align=left>
+                <FONT color=#000000>
+                  ibbspik-server&nbsp;will be unavailable&nbsp;every&nbsp;FRIDAY&nbsp;from 16:00 pm until 18:30 pm, due to the maintenance and data backup.
+                </FONT>
+                </P>
+              <P align=left>
+                <FONT color=#000000>
+                  Thank You
+                </FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC363219182D71" style=" position:absolute; top:416px; left:34px; width:190px; height:18px; z-index:20;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <FONT color=#000000>
+                <A title="Web base email of Bina Bangsa School" href="http://mail.binabangsaschool.com/" name=mail.binabangsaschool.com>BBS Web Mail</A></FONT>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC36321A31550" style=" position:absolute; top:436px; left:34px; width:91px; height:19px; z-index:21;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P>
+                <FONT color=#000000>
+                  <A href="iBBSPIK/Email-2012-2013.mht">Email list</A></FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="SGROBJ7DC3632219E61" style=" position:absolute; top:11px; left:53px; width:146px; height:124px; z-index:22;">
+            <img src="iBBSPIK/imag005.jpg" width=146 height=124 border=0>
+          </div>
+
+
+          <div id="TXTOBJ7DC3632213026F0" style=" position:absolute; top:77px; left:444px; width:114px; height:24px; z-index:23;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #ffffff; FONT-SIZE: 16pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P>
+                <FONT color=#000000>
+                  <FONT color=#c00000>
+                    <FONT style="FONT-SIZE: 16pt">
+                      <FONT style="FONT-SIZE: 9pt">
+                        <FONT style="FONT-SIZE: 11pt">
+                          <FONT style="FONT-SIZE: 11pt">
+                            <FONT style="FONT-SIZE: 14pt" color=#0024c0>
+                              <FONT style="FONT-SIZE: 14pt" color=#004bc0>
+                                <FONT color=#c00000>
+                                  <FONT style="FONT-SIZE: 16pt">
+                                    intranet
+                                  </FONT>
+                                   </FONT>
+                                </FONT>
+                              </FONT>
+                            </FONT>
+                          </FONT>
+                        </FONT>
+                      </FONT>
+                    </FONT>
+                  </FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC3151F353720" style=" position:absolute; top:652px; left:254px; width:141px; height:19px; z-index:24;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <FONT style="FONT-SIZE: 11pt" color=#c02000>
+                <U>Tips and Tricks:</U></FONT>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC315111191EC0" style=" position:absolute; top:527px; left:255px; width:718px; height:98px; z-index:25;">
+            <DIV style="TEXT-ALIGN: justify; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P>
+                bbspik intranet messenger is now running and we encourage you to use it.<BR>
+                How:<BR>
+                1. Send email to <A href="mailto:bbspiknoc@binabangsaschool.com">bbspiknoc@binabangsaschool.com</A> to create your username<BR>
+                2. Download and install spark intranet messenger&nbsp;by clicking the link below (username: bbspik, password: binabangsa)<BR>
+                3. Login using the username and password that have been given and open the prefrence option to change the password<BR>
+                
+              </P>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC31511A2C10" style=" position:absolute; top:179px; left:30px; width:207px; height:85px; z-index:26;">
+            <DIV style="TEXT-ALIGN: left; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #c02000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P>
+                <FONT color=#000000>
+                  Data server name change<BR>
+                  from bbspik-server to ibbspik-server
+                </FONT>
+                </P>
+              <P>
+                <FONT color=#000000>
+                  _____________________________<BR>
+                  
+                </P>
+                </FONT>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC31571231761" style=" position:absolute; top:629px; left:252px; width:727px; height:18px; z-index:27;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              ________________________________________________________________________________________________________
+            </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC31574183B0" style=" position:absolute; top:726px; left:252px; width:718px; height:88px; z-index:28;">
+            <DIV style="TEXT-ALIGN: justify; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <P align=justify>
+                <FONT style="FONT-SIZE: 11pt">
+                  <FONT color=#c02000>
+                    Connetct to ibbspik-server (Data server):<BR>
+                    
+                  </FONT>
+                  Open my computer, type <A href="iBBSPIK/ibbspik-server">//ibbspik-server</A> on the address bar follow by enter, double click the folder, type your username and password then click ok, and if you want to create a shortcut right click on the folder and chose create shortcut.</FONT>
+                </P>
+              </DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC719632331861" style=" position:absolute; top:456px; left:34px; width:139px; height:18px; z-index:29;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <A href="http://web.bbspik.co.id/moodle/" name=Moodle>Moodle on web.bbspik</A></DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC7196341A35B1" style=" position:absolute; top:475px; left:33px; width:190px; height:18px; z-index:30;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <A href="http://forum.binabangsaschool.com/">wiki.binabangsaschool.com</A></DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC7196342B8C1" style=" position:absolute; top:493px; left:34px; width:186px; height:18px; z-index:31;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <A href="http://wiki.binabangsaschool.com/">forum.binabangsaschol.com</A></DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC719BCB38A1" style=" position:absolute; top:616px; left:256px; width:217px; height:18px; z-index:32;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #c02000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <A href="ftp://192.168.7.2/Spark-IM-Client/">Download Spark Intranet messenger</A></DIV>
+          </div>
+
+
+          <div id="TXTOBJ7DC719B21393A91" style=" position:absolute; top:512px; left:34px; width:156px; height:18px; z-index:33;">
+            <DIV style="BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; MARGIN: 1px; FONT-FAMILY: Arial; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #c02000; FONT-SIZE: 10pt; BORDER-LEFT-WIDTH: 0px" link=#4b4b4b>
+              <A href="http://192.168.7.1/internet-reports/" name="Internet usage reports" target=_blank>Internet usage reports</A></DIV>
+          </div>
+
+        </div>
+      </td>
+    </tr>
+  </table>
+    <div style="visibility:hidden;position:absolute;left:0;top:0;z-index:34;"><span style="font-size:10pt;font-family:Arial,Sans-Serif;" id="patrn">aaaaaaaaaaaaiii</span> </div>
+    <script type="text/javascript">pointconversion();</script>
+  </body>
+
+</html>

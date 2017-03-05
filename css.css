@@ -1,0 +1,37 @@
+table,td,th,tr
+{
+	border-collapse: collapse;
+	border: 1px solid black;
+	text-align: center;
+	font-size:16;
+}
+
+
+table
+{
+	width:1000px;
+	margin-left:auto; 
+   	margin-right:auto;
+	background-color: white;
+	color:black;
+
+}
+th
+{
+	background-color: #C0C0C0;
+	color: black;
+	font-size:18;
+}
+body
+{
+	text-align:center;
+	font-size:16;
+	color:white;
+	background-image: url(background.jpg);
+	background-size: 100%;
+}
+h1
+{
+	font-size: 35;
+}
+
